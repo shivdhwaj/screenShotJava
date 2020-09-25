@@ -6,6 +6,8 @@ Java should be installed in your machine.
 
 ## How to run
 Run this following command through command prompt
-`javac screenShot.java` It will compile your class
-`java screenShot` It run this program
+
+`javac screenShot.java` Compile your class
+
+`java screenShot` Run this program
 
